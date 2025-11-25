@@ -5,11 +5,17 @@ print("hello from day2")
 ########################################################################
 # Task 1:
 
+# for count in range(100):
+#     print ("I will not sling mud at my friends again.")
 
+# ########################################################################
+# # Task 2:
+# name="ADAM"
 
-########################################################################
-# Task 2:
-
+# for letter in name:
+#     print("Give me a "+letter+"!")
+# print("Who is the best??!?")
+# print(name+"!!")
 
 
 ########################################################################
@@ -17,20 +23,58 @@ print("hello from day2")
 
 
 
+
 ########################################################################
 # Task 4:
-
+# for count in range(1,11):
+#     print (count)
 
 
 ########################################################################
 # Task 5:
 
-
-
+for count in range(5,33):
+    print (count)
 ########################################################################
 # Task 6:
-
+for count in range(51,0,-1):
+    print (count)
 
 
 ########################################################################
 # Additional exercises:
+
+for count in range(67):
+    print(count)
+
+for count in range(101):
+    print(count)
+
+for count in range(7,33):
+    print(count)
+
+for count in range(65,100):
+    print(count)
+
+for count in range(2,33,2):
+    print (count)
+
+for count in range(5,100,5):
+    print (count)
+
+for count in range(101,-1,-1):
+    print(count)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
