@@ -30,7 +30,7 @@ answer="Are you asleep yet?"
 
 
 
-while Riddle !=answer:
+while Riddle !b=answer:
     print("Try again.")    
     Riddle=input("Answer this riddle. What question can't you answer yes to?")
 
